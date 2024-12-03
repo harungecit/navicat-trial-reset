@@ -10,19 +10,19 @@ This script resets the trial period for Navicat Premium on both Windows and Linu
 - Deletes all temporary and trial-related files for Navicat Premium.
 
 ## Usage
-1. Download the script (`navicat_trial_reset_multilang.sh`) to your local machine.
+1. Download the script (`reset.sh`) to your local machine.
 2. Make the script executable:
    ```bash
-   chmod +x navicat_trial_reset_multilang.sh
+   chmod +x reset.sh
    ```
 3. Run the script:
    - English (default):
      ```bash
-     ./navicat_trial_reset_multilang.sh
+     ./reset.sh
      ```
    - Turkish:
      ```bash
-     ./navicat_trial_reset_multilang.sh --lang tr
+     ./reset.sh --lang tr
      ```
 
 ### For Windows Users

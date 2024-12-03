@@ -10,19 +10,19 @@ Bu script, hem Windows hem de Linux platformlarında Navicat Premium'un deneme s
 - Navicat Premium için tüm geçici ve deneme ile ilgili dosyaları siler.
 
 ## Kullanım
-1. Script dosyasını (`navicat_trial_reset_multilang.sh`) bilgisayarınıza indirin.
+1. Script dosyasını (`reset.sh`) bilgisayarınıza indirin.
 2. Script'i çalıştırılabilir hale getirin:
    ```bash
-   chmod +x navicat_trial_reset_multilang.sh
+   chmod +x reset.sh
    ```
 3. Script'i çalıştırın:
    - İngilizce (varsayılan):
      ```bash
-     ./navicat_trial_reset_multilang.sh
+     ./reset.sh
      ```
    - Türkçe:
      ```bash
-     ./navicat_trial_reset_multilang.sh --lang tr
+     ./reset.sh --lang tr
      ```
 
 ### Windows Kullanıcıları İçin
