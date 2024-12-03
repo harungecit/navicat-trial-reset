@@ -1,0 +1,28 @@
+
+# IDE directories
+.idea/
+.vscode/
+
+# Node modules and dependencies
+node_modules/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Python related files
+__pycache__/
+*.pyc
+*.pyo
+
+# Backup files
+*.bak
+*.swp
+
+# Ignore shell script outputs
+*.sh~
+
+# Application-specific files (extend as needed)
